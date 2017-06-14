@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: envato-purchase-code-widget/plugin_settings.php:123
+msgid "API Key"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Buyer:"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Created At:"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/plugin_settings.php:123
+msgid "Envato Purchase Code Widget Settings"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Invalid license key."
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Item ID:"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Item Name:"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "License:"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/plugin_settings.php:71
+msgid "Plugin settings saved"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/dashboard_widget.php:42
+#: envato-purchase-code-widget/plugin_settings.php:123
+msgid "Purchase Code"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/plugin_settings.php:123
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Valid License Key Details"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/dashboard_widget.php:37
+msgid "Verify"
+msgstr ""

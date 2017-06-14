@@ -1,0 +1,39 @@
+#epcw-panel-wrapper {
+    position: relative;
+    display: block;
+    padding: 40px 40px 40px 20px;
+}
+
+#epcw-message {
+    margin-top: 40px;
+}
+
+.epcw_options_wrap {
+    background: #fff;
+    padding: 40px;
+    display: inline-block;
+    width: 100%;
+    max-width: 600px;
+}
+
+.epcw_input_title h1 {
+    margin: 10px 0px 40px 0px;
+}
+
+.epcw-option-caption {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.epcw_option_input {
+    margin-bottom: 20px;
+}
+
+.epcw-option input {
+    width: 100%;
+    padding: 10px;
+}
+
+.epcw-option-info {
+    margin-top: 5px;
+}
