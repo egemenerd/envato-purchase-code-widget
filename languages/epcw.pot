@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: envato-purchase-code-widget/settings.php:1
+msgid "EPCW"
+msgstr ""
+
+#. Text in echo
+#: envato-purchase-code-widget/settings.php:51
+msgid "Envato API Key"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:1
+msgid "Envato Purchase Code"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/settings.php:1
+msgid "Envato Purchase Code Widget"
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:101
+msgid "Please enter your Envato API key from Settings -> EPCW."
+msgstr ""
+
+#. Text in function
+#: envato-purchase-code-widget/envato-purchase-code-widget.php:95
+msgid "Verify"
+msgstr ""
